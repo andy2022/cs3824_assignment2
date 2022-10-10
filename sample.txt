@@ -1,0 +1,30 @@
+#tail	head	neglog10edge_weight	edge_type
+Q5MIZ7	P16104	4.17253e-01	SPIKE
+Q5MIZ7	Q9NY27	4.17253e-01	SPIKE
+Q5MIZ7	Q53ET0	1.24939e-01	KEGG dephosphorylation|KEGG inhibition
+Q5MIZ7	P60510	1.24939e-01	MI:0006 (anti bait coimmunoprecipitation)|MI:0007 (anti tag coimmunoprecipitation)|SPIKE
+Q5MIZ7	Q99689	2.14761e-01	MI:0018 (two hybrid)|SPIKE
+P30613	P10275	2.95183e-01	MI:0007 (anti tag coimmunoprecipitation)
+Q5H9L4	P20226	4.17253e-01	SPIKE
+Q9NQ76	P16333	1.24939e-01	MI:0081 (peptide array)|SPIKE
+Q9NQ76	P27986	1.24939e-01	MI:0081 (peptide array)|SPIKE
+Q9NQ76	P62993	1.24939e-01	MI:0081 (peptide array)|SPIKE
+Q9NQ76	P00519	1.24939e-01	MI:0081 (peptide array)|SPIKE
+Q9NQ76	P19174	1.24939e-01	MI:0081 (peptide array)|SPIKE
+Q9NQ76	P12931	1.24939e-01	MI:0081 (peptide array)|SPIKE
+Q9NQ76	P46108	1.24939e-01	MI:0081 (peptide array)|SPIKE
+Q9NQ76	P06241	1.24939e-01	MI:0081 (peptide array)|SPIKE
+Q9NVL1	P21673	2.14761e-01	MI:0018 (two hybrid)|SPIKE
+P20930	Q8IY92	2.95183e-01	MI:0007 (anti tag coimmunoprecipitation)
+P20930	P40337	5.27065e-01	MI:0006 (anti bait coimmunoprecipitation)
+P20933	P02768	5.27065e-01	MI:0006 (anti bait coimmunoprecipitation)
+P20936	O60496	1.24939e-01	MI:0019 (coimmunoprecipitation)|NetPath|SPIKE
+P20936	P08069	3.06988e-01	MI:0096 (pull down)
+P20936	P49023	4.17253e-01	SPIKE
+P20936	Q07890	4.17253e-01	SPIKE
+P20936	P08631	4.17253e-01	SPIKE
+P20936	P29622	7.00113e-01	MI:0018 (two hybrid)
+P20936	Q8NAF0	7.00113e-01	MI:0018 (two hybrid)
+P20936	O14543	1.24939e-01	MI:0019 (coimmunoprecipitation)|NetPath|MI:0096 (pull down)
+P20936	P21860	1.24939e-01	MI:0089 (protein array)|SPIKE
+P20936	Q96QB1	1.24939e-01	MI:0018 (two hybrid)|MI:0006 (anti bait coimmunoprecipitation)|MI:0007 (anti tag coimmunoprecipitation)|MI:0096 (pull down)
